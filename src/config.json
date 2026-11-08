@@ -1,0 +1,447 @@
+{
+  "ukuranTeks": 16,
+  "warna": "#3d6a97",
+  "nama": "Sigap Garage",
+  "whatsapp": "6281234567890",
+  "pesanWA": "Halo Sigap Garage, saya mau booking servis",
+  "instagram": "@sigapgarage",
+  "alamat": "Jl. Contoh Raya No. 45, Jakarta Timur",
+  "bagian": [
+    "hero",
+    "kategori",
+    "layanan",
+    "paket",
+    "alasan",
+    "cara",
+    "galeri",
+    "merek",
+    "tentang",
+    "testimoni",
+    "faq",
+    "lokasi",
+    "cta",
+    "blog"
+  ],
+  "nav": [
+    [
+      "Layanan",
+      "layanan"
+    ],
+    [
+      "Paket",
+      "paket"
+    ],
+    [
+      "Cara Kerja",
+      "cara"
+    ],
+    [
+      "Galeri",
+      "galeri"
+    ],
+    [
+      "Kontak",
+      "lokasi"
+    ]
+  ],
+  "tombolNav": "Booking",
+  "slide": [
+    {
+      "judul": "Servis Cepat, Harga Jelas",
+      "sub": "Booking lewat WhatsApp, kendaraan dikerjakan tanpa antre panjang.",
+      "tombol": "Booking sekarang",
+      "foto": "interior.jpg"
+    },
+    {
+      "judul": "Montir Berpengalaman",
+      "sub": "Diagnosa teliti, biaya disetujui dulu sebelum dikerjakan.",
+      "tombol": "Konsultasi gratis",
+      "foto": "mesin.jpg"
+    },
+    {
+      "judul": "Motor Bermasalah? Kami Bantu",
+      "sub": "Dari rantai, rem, sampai kaki-kaki, dikerjakan rapi dan bergaransi.",
+      "tombol": "Chat montir",
+      "foto": "rantai.jpg"
+    }
+  ],
+  "kategoriJudul": "Layanan untuk mobil dan motor",
+  "kategori": [
+    [
+      "Servis Berkala",
+      "servis"
+    ],
+    [
+      "Ganti Oli",
+      "oli"
+    ],
+    [
+      "Rem",
+      "rem"
+    ],
+    [
+      "Aki dan Kelistrikan",
+      "aki"
+    ],
+    [
+      "AC Mobil",
+      "ac"
+    ],
+    [
+      "Ban dan Spooring",
+      "ban"
+    ]
+  ],
+  "layananJudul": "Layanan Populer",
+  "layananSub": "Harga mulai dari, final setelah diagnosa dan persetujuan Anda.",
+  "layanan": [
+    {
+      "nama": "Servis Berkala Mobil",
+      "harga": "Mulai Rp350.000",
+      "deskripsi": "Cek mesin, ganti oli dan filter, plus pengecekan 30 titik.",
+      "foto": "mesin.jpg"
+    },
+    {
+      "nama": "Servis Rem Motor",
+      "harga": "Mulai Rp75.000",
+      "deskripsi": "Kampas dan cakram diperiksa, dibersihkan, diganti bila perlu.",
+      "foto": "rem.jpg"
+    },
+    {
+      "nama": "Servis AC Mobil",
+      "harga": "Mulai Rp250.000",
+      "deskripsi": "Dingin lagi: cek freon, kompresor, dan bersihkan evaporator.",
+      "foto": "ac.jpg"
+    },
+    {
+      "nama": "Spooring dan Balancing",
+      "harga": "Mulai Rp200.000",
+      "deskripsi": "Setir lurus, ban lebih awet, berkendara lebih nyaman.",
+      "foto": "spooring.jpg"
+    },
+    {
+      "nama": "Rantai dan Kaki-kaki Motor",
+      "harga": "Mulai Rp90.000",
+      "deskripsi": "Rantai, gir, dan shockbreaker dicek agar tarikan tetap halus.",
+      "foto": "rantai.jpg"
+    },
+    {
+      "nama": "Perbaikan Umum",
+      "harga": "Mulai Rp100.000",
+      "deskripsi": "Mobil atau motor, ringan sampai berat. Dicek dulu sebelum dikerjakan.",
+      "foto": "bengkel.jpg"
+    }
+  ],
+  "tombolLayanan": "Booking",
+  "paketJudul": "Paket Servis",
+  "paketSub": "Pilih paket yang pas. Harga contoh, bisa berbeda per jenis kendaraan.",
+  "paket": [
+    {
+      "nama": "Hemat",
+      "harga": "Rp150.000",
+      "isi": [
+        "Ganti oli mesin",
+        "Cek rem dan lampu",
+        "Cek aki dan sekring",
+        "Pengecekan 10 titik"
+      ]
+    },
+    {
+      "nama": "Standar",
+      "harga": "Rp350.000",
+      "hot": "Paling laris",
+      "isi": [
+        "Semua isi paket Hemat",
+        "Ganti filter oli dan udara",
+        "Tune up dan cek kaki-kaki",
+        "Garansi 7 hari"
+      ]
+    },
+    {
+      "nama": "Lengkap",
+      "harga": "Rp750.000",
+      "isi": [
+        "Semua isi paket Standar",
+        "Servis rem lengkap",
+        "Servis AC (mobil)",
+        "Spooring dan balancing",
+        "Garansi 30 hari"
+      ]
+    }
+  ],
+  "tombolPaket": "Pilih paket",
+  "alasanJudul": "Kenapa pilih kami",
+  "alasan": [
+    [
+      "servis",
+      "Montir berpengalaman",
+      "Rata-rata 8 tahun menangani berbagai merek."
+    ],
+    [
+      "tag",
+      "Harga transparan",
+      "Biaya dijelaskan dan disetujui sebelum dikerjakan."
+    ],
+    [
+      "perisai",
+      "Garansi servis",
+      "Garansi pengerjaan sampai 30 hari."
+    ],
+    [
+      "kotak",
+      "Suku cadang asli",
+      "Bergaransi, dengan bukti pembelian."
+    ]
+  ],
+  "caraJudul": "Cara kerja kami",
+  "cara": [
+    [
+      "telepon",
+      "Booking",
+      "Chat WhatsApp dan pilih jadwal."
+    ],
+    [
+      "diagnosa",
+      "Diagnosa",
+      "Montir memeriksa dan menjelaskan masalahnya."
+    ],
+    [
+      "tag",
+      "Setuju harga",
+      "Dikerjakan setelah Anda menyetujui biaya."
+    ],
+    [
+      "perisai",
+      "Selesai",
+      "Ambil kendaraan, garansi langsung berlaku."
+    ]
+  ],
+  "galeriJudul": "Suasana dan Hasil Kerja",
+  "galeri": [
+    [
+      "bengkel.jpg",
+      "Area servis mobil dan motor"
+    ],
+    [
+      "rantai.jpg",
+      "Servis rantai motor"
+    ],
+    [
+      "rem.jpg",
+      "Pemeriksaan rem"
+    ],
+    [
+      "ac.jpg",
+      "Servis AC mobil"
+    ],
+    [
+      "spooring.jpg",
+      "Spooring dan balancing"
+    ],
+    [
+      "interior.jpg",
+      "Bengkel yang rapi dan terang"
+    ],
+    [
+      "mesin.jpg",
+      "Pengecekan mesin"
+    ]
+  ],
+  "merekJudul": "Melayani berbagai merek",
+  "merek": [
+    "Toyota",
+    "Honda",
+    "Daihatsu",
+    "Suzuki",
+    "Mitsubishi",
+    "Yamaha",
+    "Kawasaki",
+    "Vespa"
+  ],
+  "tentang": {
+    "judul": "Dikerjakan jujur, diselesaikan tuntas.",
+    "teks": "Kami memulai bengkel ini dengan satu prinsip: pelanggan berhak tahu apa yang dikerjakan pada kendaraannya. Setiap pekerjaan dijelaskan dulu, dikerjakan rapi, dan diberi garansi.",
+    "statistik": [
+      [
+        8,
+        "",
+        "Tahun berdiri"
+      ],
+      [
+        12000,
+        "+",
+        "Kendaraan terlayani"
+      ],
+      [
+        12,
+        "",
+        "Montir"
+      ],
+      [
+        4.9,
+        "",
+        "Rating rata-rata"
+      ]
+    ],
+    "timJudul": "Tim montir kami",
+    "tim": [
+      [
+        "Pak Anto",
+        "Kepala Montir",
+        "#c68642",
+        "#3d6a97",
+        "#2f4858"
+      ],
+      [
+        "Mas Bayu",
+        "Montir Mobil",
+        "#8d5524",
+        "#64748b",
+        "#334155"
+      ],
+      [
+        "Mas Rio",
+        "Montir Motor",
+        "#e0ac69",
+        "#5b7fa6",
+        "#3f4b5b"
+      ]
+    ]
+  },
+  "testimoniJudul": "Kata pelanggan",
+  "testimoni": [
+    {
+      "nama": "Pak Dedi",
+      "peran": "Pemilik Avanza",
+      "teks": "Servis AC selesai dalam sehari, harganya sesuai yang dijelaskan di awal. Tidak ada biaya tiba-tiba.",
+      "warna": [
+        "#c68642",
+        "#1d4ed8",
+        "#4b5563"
+      ]
+    },
+    {
+      "nama": "Sari",
+      "peran": "Pengguna Scoopy",
+      "teks": "Rem motor saya sudah pakem lagi. Montirnya sabar menjelaskan, jadi saya paham kerusakannya.",
+      "warna": [
+        "#e0ac69",
+        "#64748b",
+        "#475569"
+      ]
+    },
+    {
+      "nama": "Rudi",
+      "peran": "Driver online",
+      "teks": "Cepat dan rapi. Servis berkala jadi tenang karena ada garansi.",
+      "warna": [
+        "#8d5524",
+        "#3d6a97",
+        "#334155"
+      ]
+    }
+  ],
+  "faqJudul": "Pertanyaan yang sering ditanyakan",
+  "faq": [
+    [
+      "Berapa lama servis berkala?",
+      "Rata-rata 1 sampai 3 jam, tergantung jenis kendaraan dan kondisinya."
+    ],
+    [
+      "Apakah harus booking dulu?",
+      "Tidak wajib, tapi booking lewat WhatsApp mengurangi waktu tunggu."
+    ],
+    [
+      "Apakah ada garansi?",
+      "Ada. Garansi pengerjaan 7 sampai 30 hari sesuai jenis layanan."
+    ],
+    [
+      "Apakah biaya dijelaskan lebih dulu?",
+      "Ya. Montir menjelaskan kerusakan dan biayanya, pekerjaan dimulai setelah Anda setuju."
+    ],
+    [
+      "Metode pembayaran apa saja?",
+      "Tunai, transfer bank, dan QRIS."
+    ]
+  ],
+  "lokasiJudul": "Kunjungi bengkel kami",
+  "jam": [
+    [
+      "Senin – Sabtu",
+      "08.00 – 17.00"
+    ],
+    [
+      "Minggu",
+      "09.00 – 14.00"
+    ]
+  ],
+  "cta": {
+    "judul": "Kendaraan bermasalah? Chat sekarang.",
+    "teks": "Montir kami siap membantu. Ceritakan keluhannya, kami arahkan langkah terbaiknya.",
+    "tombol": "Chat WhatsApp"
+  },
+  "blogJudul": "Tips dari Montir",
+  "blog": [
+    {
+      "judul": "Kapan Harus Ganti Oli Mobil dan Motor?",
+      "tanggal": "6 November 2026",
+      "foto": "mesin.jpg"
+    },
+    {
+      "judul": "5 Tanda Rem Perlu Diperiksa Segera",
+      "tanggal": "4 November 2026",
+      "foto": "rem.jpg"
+    },
+    {
+      "judul": "Kenapa AC Mobil Tidak Dingin?",
+      "tanggal": "2 November 2026",
+      "foto": "ac.jpg"
+    }
+  ],
+  "footer": [
+    [
+      "Layanan",
+      [
+        "Servis Berkala",
+        "Ganti Oli",
+        "Rem",
+        "AC Mobil",
+        "Spooring"
+      ]
+    ],
+    [
+      "Bantuan",
+      [
+        "Booking",
+        "FAQ",
+        "Garansi",
+        "Kontak"
+      ]
+    ],
+    [
+      "Informasi",
+      [
+        "Tentang Kami",
+        "Tim Montir",
+        "Tips",
+        "Karier"
+      ]
+    ],
+    [
+      "Kebijakan",
+      [
+        "Privasi",
+        "Syarat dan Ketentuan"
+      ]
+    ],
+    [
+      "Ikuti Kami",
+      [
+        "Instagram",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ]
+    ]
+  ]
+}
